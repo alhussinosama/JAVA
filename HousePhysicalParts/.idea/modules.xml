@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/plyerPositions.iml" filepath="$PROJECT_DIR$/plyerPositions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HousePhysicalParts.iml" filepath="$PROJECT_DIR$/HousePhysicalParts.iml" />
     </modules>
   </component>
 </project>
